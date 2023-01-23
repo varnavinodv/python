@@ -1,4 +1,4 @@
-student={"name":"Niranjan","age":21,"sem":1,"roll no":4}
+student={"name":"Varna","age":21,"sem":1,"roll no":4}
 print(student)
 print(len(student))
 print(student.keys())
